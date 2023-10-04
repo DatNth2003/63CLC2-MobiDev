@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#4453D8</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="margin_layout">32sp</dimen>
+    <dimen name="tv_size">32sp</dimen>
+    <dimen name="txt_size">16sp</dimen>
+    <string name="app_name">ex.no.1</string>
+    <string name="change_font_color">Đổi Màu Chữ</string>
+    <string name="change_font_size">Đổi Kích Thước Chữ</string>
+    <string name="hello_world">Hello World!</string>
+    <style name="Base.Theme.Exno1" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Exno1" parent="Base.Theme.Exno1"/>
+</resources>
