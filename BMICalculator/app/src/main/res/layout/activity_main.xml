@@ -35,7 +35,7 @@
                 android:textSize="17sp" />
 
             <EditText
-                android:id="@+id/editTextHeight"
+                android:id="@+id/etHeight"
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:layout_marginStart="100px"
@@ -56,7 +56,7 @@
                 android:textSize="17sp" />
 
             <EditText
-                android:id="@+id/editTextWeight"
+                android:id="@+id/etWeight"
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:layout_marginStart="100px"
@@ -67,16 +67,18 @@
                 android:textSize="@dimen/edit_text" />
 
             <Button
-                android:id="@+id/buttonCalculate"
+                android:id="@+id/btnCalc"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="100px"
                 android:background="@color/blue"
+                android:onClick="bmiCalc"
                 android:text="CACULATE"
                 android:textColor="@color/white"
                 android:textSize="20sp" />
 
             <TextView
+                android:id="@+id/tvResult"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
@@ -84,7 +86,7 @@
                 android:textSize="24sp" />
 
             <TextView
-                android:id="@+id/textViewResult"
+                android:id="@+id/tvResultNum"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"

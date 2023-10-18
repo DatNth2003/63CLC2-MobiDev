@@ -12,7 +12,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        android:layout_margin="15dp"
+        >
 
         <TextView
             android:layout_width="wrap_content"
@@ -50,7 +52,25 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:onClick="btnName_click"
-            android:text="Hello person" />
+            android:text="Hello person"
+            android:layout_margin="50dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:layout_margin="15dp">
+
+        <Button
+            android:id="@+id/btnHelloMyself"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btnHelloMyself_click"
+            android:text="Hello Myself"
+            android:layout_margin="50dp"/>
     </LinearLayout>
 
 </LinearLayout>

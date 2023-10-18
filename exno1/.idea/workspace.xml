@@ -9,7 +9,66 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f98622c9-f8e2-4193-9e9b-ad696754fa9c" name="Changes" comment="" />
+    <list default="true" id="f98622c9-f8e2-4193-9e9b-ad696754fa9c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../BMICalculator/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BMICalculator/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BMICalculator/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BMICalculator/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BMICalculator/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BMICalculator/app/src/main/java/com/datnth63133206/bmicalculator/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BMICalculator/app/src/main/java/com/datnth63133206/bmicalculator/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BMICalculator/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BMICalculator/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.gradle/8.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.gradle/8.0/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.gradle/8.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.gradle/8.0/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.gradle/8.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.gradle/8.0/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.gradle/8.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.gradle/8.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.gradle/8.0/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.gradle/8.0/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/incremental/debug/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/incremental/debug/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/javac/debug/classes/com/datnth63133206/helloworld/MainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/javac/debug/classes/com/datnth63133206/helloworld/MainActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/local_only_symbol_list/debug/R-def.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/local_only_symbol_list/debug/R-def.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/packaged_res/debug/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/packaged_res/debug/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/project_dex_archive/debug/out/12f645d13412d26c80a6a5e490e7bbdc77f7be214defd5da659bf3f880755570_0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/project_dex_archive/debug/out/12f645d13412d26c80a6a5e490e7bbdc77f7be214defd5da659bf3f880755570_1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/project_dex_archive/debug/out/12f645d13412d26c80a6a5e490e7bbdc77f7be214defd5da659bf3f880755570_2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/project_dex_archive/debug/out/12f645d13412d26c80a6a5e490e7bbdc77f7be214defd5da659bf3f880755570_3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/project_dex_archive/debug/out/12f645d13412d26c80a6a5e490e7bbdc77f7be214defd5da659bf3f880755570_4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/project_dex_archive/debug/out/12f645d13412d26c80a6a5e490e7bbdc77f7be214defd5da659bf3f880755570_5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/project_dex_archive/debug/out/com/datnth63133206/helloworld/MainActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/project_dex_archive/debug/out/com/datnth63133206/helloworld/MainActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/runtime_symbol_list/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/runtime_symbol_list/debug/R.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/stable_resource_ids_file/debug/stableIds.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/stable_resource_ids_file/debug/stableIds.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/MainActivity.class.uniqueId0" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/app/build/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/MainActivity.class.uniqueId0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/app/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/app/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/app/src/main/java/com/datnth63133206/helloworld/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/app/src/main/java/com/datnth63133206/helloworld/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exno3/.gradle/8.0/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exno3/.gradle/8.0/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exno3/.gradle/8.0/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exno3/.gradle/8.0/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exno3/.gradle/8.0/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exno3/.gradle/8.0/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exno3/.gradle/8.0/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exno3/.gradle/8.0/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exno3/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exno3/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exno3/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exno3/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exno3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exno3/local.properties" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,16 +98,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "cidr.known.project.marker": "true",
-    "last_opened_file_path": "D:/GitHub/MobiDev/exno1",
-    "settings.editor.selected.configurable": "AndroidSdkUpdater"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/GitHub/MobiDev/exno1&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;AndroidSdkUpdater&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="exno1.app.main" />

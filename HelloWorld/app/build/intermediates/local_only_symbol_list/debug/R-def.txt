@@ -5,6 +5,7 @@ color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 id btnHello
+id btnHelloMyself
 id button2
 id etName
 layout activity_main

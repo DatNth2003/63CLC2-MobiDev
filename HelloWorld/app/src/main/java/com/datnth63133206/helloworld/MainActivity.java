@@ -21,8 +21,11 @@ public class MainActivity extends AppCompatActivity {
     }
     public void btnName_click(View v){
         EditText etName = findViewById(R.id.etName);
-        String strThongBao = "Hello " + etName.getText()+"!";
+        String strThongBao = "Hello! Nice to see you,\n" + etName.getText()+"!";
         Toast.makeText(this,strThongBao,Toast.LENGTH_LONG).show();
     }
-
+    public void btnHelloMyself_click(View v){
+        String strThongBao = "Hello Ngo Thanh Dat!";
+        Toast.makeText(this,strThongBao,Toast.LENGTH_LONG).show();
+    }
 }
