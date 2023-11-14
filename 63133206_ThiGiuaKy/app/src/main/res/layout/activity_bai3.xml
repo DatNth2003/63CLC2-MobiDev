@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ActivityBai3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.8"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/lvTittle"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="top|center"
+            android:background="#FF0000"
+            android:padding="20dp"
+            android:layout_weight="0.2"
+            android:text="List view nâng cao"
+            android:textSize="20dp"
+            android:textStyle="bold"/>
+
+        <Button
+            android:id="@+id/btnBack"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.9"
+            android:background="@color/blue"
+            android:contentDescription="Back"
+            android:text="@string/button_back"
+            android:textStyle="bold"
+            app:cornerRadius="0dp" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/lvNation"
+        android:layout_width="409dp"
+        android:layout_height="729dp"
+        android:layout_gravity="top|center"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginBottom="1dp"
+        android:layout_weight="0.1"
+        android:padding="20dp"
+        android:text="Danh sách quốc gia"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</LinearLayout>
