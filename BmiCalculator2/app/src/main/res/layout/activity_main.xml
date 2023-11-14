@@ -20,7 +20,9 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="0.3"
-        android:orientation="horizontal">
+        android:orientation="horizontal"
+        android:padding="5dp"
+        >
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -39,29 +41,30 @@
 
             <RadioGroup
                 android:id="@+id/rgMeasures"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:layout_weight="9"
                 android:background="@drawable/measures_border"
                 android:padding="10dp"
-
+                android:layout_gravity="center"
+                android:backgroundTint="@color/blue"
                 >
 
                 <TextView
                     android:id="@+id/tvStandard"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
                     android:text="Standard"
                     android:textSize="14sp"
-                    android:textStyle="bold" />
+                    android:textStyle="bold"
+                    android:paddingBottom="5dp"
+                    />
 
                 <RadioButton
                     android:id="@+id/rbStandard1"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_gravity="bottom"
-                    android:layout_weight="1"
                     android:checked="true"
                     android:text="feet/pounds" />
 
@@ -70,7 +73,6 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_gravity="bottom"
-                    android:layout_weight="1"
                     android:checked="false"
                     android:text="inches/pounds" />
 
@@ -78,16 +80,16 @@
                     android:id="@+id/tvMetric"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
                     android:text="Metric"
                     android:textSize="14sp"
-                    android:textStyle="bold" />
+                    android:textStyle="bold"
+                    android:paddingBottom="5dp"
+                    />
 
                 <RadioButton
                     android:id="@+id/rbMetric"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
                     android:text="cm/kg" />
 
             </RadioGroup>
@@ -111,9 +113,12 @@
             <TextView
                 android:id="@+id/tvCategories"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:layout_height="wrap_content"
                 android:layout_weight="9"
-                android:padding="10dp" />
+                android:padding="10dp"
+                android:background="@color/light_yellow"
+                android:layout_margin="5dp"
+                />
         </LinearLayout>
 
     </LinearLayout>
@@ -124,20 +129,18 @@
         android:layout_weight="0.3"
         android:backgroundTint="#0DED23"
         android:orientation="vertical"
-        android:padding="15dp">
+        android:padding="5dp">
 
         <TextView
             android:id="@+id/tvWeight"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_weight="0.1"
             android:text="Weight" />
 
         <EditText
             android:id="@+id/edtWeight"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_weight="0.1"
             android:ems="10"
             android:inputType="number" />
 
@@ -145,14 +148,12 @@
             android:id="@+id/tvHeight"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_weight="0.1"
             android:text="Height" />
 
         <EditText
             android:id="@+id/edtHeight"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_weight="0.1"
             android:ems="10"
             android:inputType="number" />
 
@@ -161,7 +162,6 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center|top"
-            android:layout_weight="0.1"
             android:text="Result: "
             android:textStyle="bold" />
 
@@ -170,7 +170,6 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center|top"
-            android:layout_weight="0.1"
             android:text="Your BMI: "
             android:textStyle="bold" />
 

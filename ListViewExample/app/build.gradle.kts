@@ -4,7 +4,8 @@ plugins {
 
 android {
     namespace = "com.datnth63133206.listviewexample"
-    compileSdkVersion(rootProject.extra["compileSdkVersion"] as Int)
+    compileSdk = 32
+    (as Int)
 
     defaultConfig {
         applicationId = "com.datnth63133206.listviewexample"

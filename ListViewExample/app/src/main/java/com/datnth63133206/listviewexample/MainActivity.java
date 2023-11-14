@@ -23,24 +23,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        findControls();
-        dsBaiHat = new ArrayList<>();
-        dsBaiHat.add("Tiến quân ca");
-        dsBaiHat.add("Đoàn ca");
-        ArrayAdapter<String> adapterBaiHat;
 
-        adapterBaiHat = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1,dsBaiHat);
-        lvBaiHat.setAdapter(adapterBaiHat);
-        lvBaiHat.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            @Override
-            public void onItemClick(AdapterView<?> parent, View view, int i, long id) {
-                //String itemSelected = adapterBaiHat.getItem(i);
-                String itemSelected = dsBaiHat.get(i);
-                //thông báo lên mh
-                String thongBao = "Đã chọn bài" + itemSelected;
-                Toast.makeText(MainActivity.this, thongBao, Toast.LENGTH_SHORT).show();
-            }
-        });
 
     }
 }
